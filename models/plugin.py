@@ -1,7 +1,7 @@
 from enum import Enum
 from typing import List
 
-from pydantic import BaseModel
+from pydantic_settings import BaseModel
 
 from models.engine import EngineNode
 
